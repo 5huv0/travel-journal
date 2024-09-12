@@ -1,6 +1,6 @@
 export default [
     {
-        img : "",
+        img : "./public/images/coxsbazar.jpg",
         location : "",
         placeName : "",
         date : "",
@@ -8,7 +8,7 @@ export default [
     },
 
     {
-        img : "",
+        img : "./public/images/saintmartin.jpg",
         location : "",
         placeName : "",
         date : "",
@@ -16,7 +16,7 @@ export default [
     },
 
     {
-        img : "",
+        img : "./public/images/lalbagh.jpg",
         location : "",
         placeName : "",
         date : "",
@@ -24,7 +24,7 @@ export default [
     },
 
     {
-        img : "",
+        img : "./public/images/sundarban.jpg",
         location : "",
         placeName : "",
         date : "",
@@ -32,7 +32,15 @@ export default [
     },
 
     {
-        img : "",
+        img : "./public/images/sajek.jpg",
+        location : "",
+        placeName : "",
+        date : "",
+        des : ""
+    },
+
+    {
+        img : "./public/images/ratargul.jpg",
         location : "",
         placeName : "",
         date : "",

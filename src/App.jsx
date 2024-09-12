@@ -4,6 +4,7 @@ import viteLogo from '/vite.svg'
 import './App.css'
 import Navbar from './components/Navbar'
 import HeroSec from './components/HeroSec'
+import MainSec from './components/MainSec'
 
 function App() {
 
@@ -11,6 +12,7 @@ function App() {
     <>
       <Navbar />
       <HeroSec />
+      <MainSec />
     </>
   )
 }
