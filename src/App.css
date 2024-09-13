@@ -8,7 +8,7 @@
     display: flex;
     justify-content: space-between;
     align-items: center;
-    position: fixed;
+    position:absolute;
     top: 0;
     width: 100%;
     /* background-color: rgba(173, 169, 169, 0.921);  */
@@ -89,7 +89,26 @@
 
 /* Main Section's work starts here  */
 
+.img{
+    height: 200px;
+    width: 100%;
+    object-fit: cover;
+}
 
+.card-container {
+    display: flex;
+    justify-content: space-between; 
+    flex-wrap: nowrap;
+    gap: 20px; 
+}
 
+.main-sec {
+    flex: 1 1 calc(33.33% - 20px);
+    max-width: calc(33.33% - 20px);
+    border: 1px solid #ccc;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    box-sizing: border-box;
+}
 
 /* Main Section's work ends here  */

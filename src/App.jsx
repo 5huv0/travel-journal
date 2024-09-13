@@ -5,14 +5,21 @@ import './App.css'
 import Navbar from './components/Navbar'
 import HeroSec from './components/HeroSec'
 import MainSec from './components/MainSec'
+import TravelData from './components/TravelData'
 
 function App() {
+
+  const mainSec = TravelData.map(item => {
+    return <MainSec 
+            {...item}
+          />
+  })
 
   return (
     <>
       <Navbar />
       <HeroSec />
-      <MainSec />
+      {mainSec}
     </>
   )
 }
