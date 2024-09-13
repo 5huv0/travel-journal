@@ -19,7 +19,10 @@ function App() {
     <>
       <Navbar />
       <HeroSec />
-      {mainSec}
+      <section className='card-container'>
+        {mainSec}
+      </section>
+      
     </>
   )
 }

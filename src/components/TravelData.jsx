@@ -4,7 +4,7 @@ export default [
         location : "Cox's Bazar, Chittagong",
         placeName : "Cox's Bazar Sea Beach",
         date : "07-09-2001",
-        des : ""
+        des : "The longest natural sea beach in the world, stretching over 120 km along the southeastern coast of Bangladesh, known for its serene beauty, golden sands, and rolling waves."
     },
 
     {
@@ -12,7 +12,7 @@ export default [
         location : "Saint Martin",
         placeName : "Saint Martin",
         date : "07-09-2001",
-        des : ""
+        des : "A small, picturesque coral island in the Bay of Bengal, famous for its crystal-clear waters, vibrant marine life, and stunning sunsets."
     },
 
     {
@@ -20,7 +20,7 @@ export default [
         location : "Old Dhaka",
         placeName : "Lalbagh",
         date : "07-09-2001",
-        des : ""
+        des : " A historical Mughal fort in Dhaka, built in the 17th century, featuring intricate architecture, a mosque, and lush gardens, representing the rich cultural heritage of Bangladesh."
     },
 
     {
@@ -28,7 +28,7 @@ export default [
         location : "Khulna",
         placeName : "Sundarban Mangrove Forest",
         date : "07-09-2001",
-        des : ""
+        des : "The largest mangrove forest in the world, located in the delta of the Ganges, Brahmaputra, and Meghna rivers, home to the endangered Royal Bengal Tiger and diverse wildlife."
     },
 
     {
@@ -36,7 +36,7 @@ export default [
         location : "Bandarban",
         placeName : "Sajek Vally",
         date : "07-09-2001",
-        des : ""
+        des : "A scenic hill station in the Chittagong Hill Tracts, offering breathtaking views of lush green valleys, misty mountains, and stunning sunsets, making it a popular spot for adventure seekers and nature lovers."
     },
 
     {
@@ -44,6 +44,6 @@ export default [
         location : "Sylhet",
         placeName : "Ratargul",
         date : "07-09-2001",
-        des : ""
+        des : "A freshwater swamp forest in Sylhet, known for its submerged trees, rich biodiversity, and serene boat rides through the tranquil waters during the monsoon season."
     }
 ]

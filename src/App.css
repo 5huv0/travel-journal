@@ -97,18 +97,26 @@
 
 .card-container {
     display: flex;
-    justify-content: space-between; 
-    flex-wrap: nowrap;
-    gap: 20px; 
+    flex-direction: row;
+    justify-content: space-evenly; 
+    flex-wrap: wrap;
+   
 }
 
 .main-sec {
-    flex: 1 1 calc(33.33% - 20px);
-    max-width: calc(33.33% - 20px);
+    width: calc(33.33% - 20px);
     border: 1px solid #ccc;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
     padding: 20px;
-    box-sizing: border-box;
+    box-sizing: border-box; 
+    margin-top: 30px;
+    font-family: monospace;
+}
+
+.edit{
+    font-weight: bolder;
+    text-decoration: underline;
+    font-size: xx-large;
 }
 
 /* Main Section's work ends here  */
