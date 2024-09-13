@@ -2,13 +2,13 @@ import React from "react";
 
 export default function Footer(){
     return(
-        <div className="footer">
+        <footer className="footer">
             <div className="footer-right">
                 <p>@2024 5huv0 All Right Reserved</p>
             </div>
 
             <div className="footer-link">
-                <ul>
+                <ul className="footer-list">
                     <li className="list-item">
                         <a href="#">Contact</a>
                     </li>
@@ -28,18 +28,18 @@ export default function Footer(){
             </div>
 
             <div className="footer-linking">
-               <a href="">
-                <img src="" alt="" />
+               <a href="#">
+                <img src="./public/images/instagram.png" alt="" className="footer-img"/>
                </a>
 
-               <a href="">
-                <img src="" alt="" />
+               <a href="#">
+                <img src="./public/images/github.png" alt="" className="footer-img"/>
                </a>
 
-               <a href="">
-                <img src="" alt="" />
+               <a href="#">
+                <img src="./public/images/linkedin.png" alt="" className="footer-img"/>
                </a>
             </div>
-        </div>
+        </footer>
     )
 }
