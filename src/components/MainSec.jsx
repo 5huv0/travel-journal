@@ -1,6 +1,6 @@
 import React from "react";
 
-export default function Navbar(props){
+export default function MainSec(props){
     return(
             <div className="main-sec">
                 <img src={props.img} alt={props.placeName} className="img"/>

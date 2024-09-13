@@ -6,6 +6,7 @@ import Navbar from './components/Navbar'
 import HeroSec from './components/HeroSec'
 import MainSec from './components/MainSec'
 import TravelData from './components/TravelData'
+import Footer from './components/Footer'
 
 function App() {
 
@@ -22,7 +23,7 @@ function App() {
       <section className='card-container'>
         {mainSec}
       </section>
-      
+      <Footer />
     </>
   )
 }
