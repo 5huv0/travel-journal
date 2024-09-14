@@ -3,7 +3,7 @@ import React from "react";
 export default function Navbar(){
     return(
         <nav className="nav-bar">
-            <img src="./public/images/travel-logo1.webp" alt="nav-logo" className="nav-logo"/>
+            <img src="/images/travel-logo1.webp" alt="nav-logo" className="nav-logo"/>
             <ul className="nav justify-content-end">
                 <li className="nav-item">
                     <a className="nav-link active" aria-current="page" href="#">Home</a>

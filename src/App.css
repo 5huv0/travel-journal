@@ -45,7 +45,7 @@
     flex-direction: column;
     align-items: center;
     justify-items: center;
-    background-image: url("./public/images/travel.webp");
+    background-image: url("/images/travel.webp");
     background-repeat: no-repeat;
     background-position: 100%;
     background-size: cover;
@@ -112,6 +112,7 @@
     text-decoration: underline;
     font-size: xx-large;
 }
+
 
 /* Main Section's work ends here  */
 
