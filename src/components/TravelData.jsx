@@ -1,6 +1,6 @@
 export default [
     {
-        img : "./public/images/coxsbazar.jpg",
+        img : "./public/images/coxsbazar.webp",
         location : "Cox's Bazar, Chittagong",
         placeName : "Cox's Bazar Sea Beach",
         date : "07-09-2001",
@@ -8,7 +8,7 @@ export default [
     },
 
     {
-        img : "./public/images/saintmartin.jpg",
+        img : "./public/images/saintmartin.webp",
         location : "Saint Martin",
         placeName : "Saint Martin",
         date : "07-09-2001",
@@ -16,7 +16,7 @@ export default [
     },
 
     {
-        img : "./public/images/lalbagh.jpg",
+        img : "./public/images/lalbagh.webp",
         location : "Old Dhaka",
         placeName : "Lalbagh",
         date : "07-09-2001",
@@ -24,7 +24,7 @@ export default [
     },
 
     {
-        img : "./public/images/sundarban.jpg",
+        img : "./public/images/sundarban.webp",
         location : "Khulna",
         placeName : "Sundarban Mangrove Forest",
         date : "07-09-2001",
@@ -32,7 +32,7 @@ export default [
     },
 
     {
-        img : "./public/images/sajek.jpg",
+        img : "./public/images/sajek.webp",
         location : "Bandarban",
         placeName : "Sajek Vally",
         date : "07-09-2001",
@@ -40,7 +40,7 @@ export default [
     },
 
     {
-        img : "./public/images/ratargul.jpg",
+        img : "./public/images/ratargul.webp",
         location : "Sylhet",
         placeName : "Ratargul",
         date : "07-09-2001",

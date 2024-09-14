@@ -29,15 +29,15 @@ export default function Footer(){
 
             <div className="footer-linking">
                <a href="#">
-                <img src="./public/images/instagram.png" alt="" className="footer-img"/>
+                <img src="./public/images/instagram.webp" alt="" className="footer-img"/>
                </a>
 
                <a href="#">
-                <img src="./public/images/github.png" alt="" className="footer-img"/>
+                <img src="./public/images/github.webp" alt="" className="footer-img"/>
                </a>
 
                <a href="#">
-                <img src="./public/images/linkedin.png" alt="" className="footer-img"/>
+                <img src="./public/images/linkedin.webp" alt="" className="footer-img"/>
                </a>
             </div>
         </footer>
